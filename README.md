@@ -1,1 +1,2 @@
-# myfreestyle1
+ld
+pwd
